@@ -1,8 +1,8 @@
 # v3.3.0
-##Add flags:GGP, IMP, JEP, LSL, PAB, TMT. Only square: LAQ, BND
+## Add flags:GGP, IMP, JEP, LSL, PAB, TMT. Only square: LAQ, BND
 
 # v3.2.1
-##Add Fiji flag
+## Add Fiji flag
 
 # v3.2.0
 ## Use wise.com asset URLs instead of transferwise.com
