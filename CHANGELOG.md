@@ -1,3 +1,6 @@
+# v3.r43.0
+## Rename SLL flag to SLE. Use for both SLL and SLE currencies.
+
 # v3.3.0
 ## Add flags:GGP, IMP, JEP, LSL, PAB, TMT. Only square: LAQ, BND
 
