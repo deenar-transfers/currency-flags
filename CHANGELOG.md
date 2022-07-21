@@ -1,4 +1,4 @@
-# v3.r43.0
+# v3.4.0
 ## Rename SLL flag to SLE. Use for both SLL and SLE currencies.
 
 # v3.3.0
